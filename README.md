@@ -26,5 +26,4 @@ This project provides an automated script to perform Nmap scans with the vulners
 git clone https://github.com/yourusername/nmap-vulnerability-scanner.git
 cd nmap-vulnerability-scanner
 pip install -r requirements.txt
-
-## Usage python Nmap_scan.py
+python Nmap_scan.py
