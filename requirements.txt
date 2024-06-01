@@ -1,4 +1,4 @@
-nmapparser
-python-libnmap
-colorama
-termcolor
+nmapparser==1.0.0
+python-libnmap==0.7.5
+colorama==0.4.6
+termcolor==2.1.1
