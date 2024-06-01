@@ -1,3 +1,4 @@
 nmapparser
 python-libnmap
 colorama
+termcolor
